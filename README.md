@@ -1,13 +1,2 @@
-# Run Buddy
+# Run Buddy, Inc
 
-## Purpose 
-A website that offers training services.
-
-## Built with 
-* HTML
-* CSS
-
-## Website
-
-## contribution 
-made with love, Dawson
